@@ -5,3 +5,7 @@ lbyec72-ej1-p3-single_multidimensional_arrays-mathewgabsam created by GitHub Cla
 ![](Capture3.PNG)
 ![](Capture4.PNG)
 ![](Capture5.PNG)
+![](Capture11.PNG)
+![](Capture12.PNG)
+![](Capture13.PNG)
+![](Capture14.PNG)
